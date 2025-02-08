@@ -4,6 +4,12 @@ Website for the Machine Learning Society.
 
 ### Icon Attributions
 
+The Instagram, LinkedIn, and Location Pin icons used in this project are sourced from Bootstrap Icons:
+
+- [Instagram Icon](https://icons.getbootstrap.com/icons/instagram/) by [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [LinkedIn Icon](https://icons.getbootstrap.com/icons/linkedin/) by [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Location Pin Icon](https://icons.getbootstrap.com/icons/geo-alt-fill/) by [Bootstrap Icons](https://icons.getbootstrap.com/)
+
 The Microsoft Teams icon used in this project is sourced from Icons8:
 
 - [Microsoft Teams Icon](https://icons8.com/icons/set/microsoft-teams) by [Icons8](https://icons8.com/)
