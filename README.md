@@ -1,6 +1,4 @@
-# Machine Learning Society Website
-
-Website for the Machine Learning Society.
+# Dalhousie Machine Learning Society Official Website
 
 ### Icon Attributions
 
