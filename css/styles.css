@@ -389,8 +389,16 @@ main {
   flex-shrink: 0;
 }
 
+.instructor-icon {
+  color: hsl(0, 0%, 100%);
+  width: 45px;
+  height: 45px;
+  flex-shrink: 0;
+}
+
 .physical-text,
-.virtual-text {
+.virtual-text,
+.instructor-text {
   display: flex;
   flex-direction: column;
   align-items: start;
@@ -400,6 +408,7 @@ main {
 .physical-text p,
 .physical-text a,
 .virtual-text p,
+.instructor-text p,
 .virtual-text a {
   font-size: 1.1em !important;
   font-weight: 600;
@@ -407,6 +416,10 @@ main {
   padding: 0 !important;
   margin: 0 !important;
   word-wrap: break-word;
+}
+
+.instructor-text > p:nth-child(2) {
+  color: var(--header-blue);
 }
 
 /* JOIN US */
