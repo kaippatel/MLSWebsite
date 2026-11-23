@@ -1,5 +1,9 @@
-# Dalhousie Machine Learning Society Official Website
+# Dalhousie Machine Learning Society (DMLS): Original Website (Legacy)
 
+This repository contains the original website for the Dalhousie Machine Learning Society. It's kept here as a legacy archive and is no longer maintained or deployed. 
+
+Seeing as I am no longer affiliated with DMLS, please refer to their [LinkTree](https://linktr.ee/dalmlsociety?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaenJN0jwDLFbDcbuMah9q6K4WJOjPklcw4gbFhm9T57) for more information.
+  
 ### Icon Attributions
 
 The Instagram, LinkedIn, and Location Pin icons used in this project are sourced from Bootstrap Icons:
